@@ -1,4 +1,7 @@
-### Hi there 👋
+<h3 align="center">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+</h3>
 
 <hr>
 
@@ -34,5 +37,12 @@
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
+</p>
+<hr>
+
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+
+<p align=center>
+  <img alig src="https://github-profile-trophy.vercel.app/?username=winwin1115&theme=nord&column=7" />
 </p>
 <hr>
